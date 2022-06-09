@@ -28,7 +28,6 @@ body{
 .main{
   background-color: var(--White);
   width: 25em;
-  /* min-height: 37em; */
   padding: 1.3em;
   margin: 1em;
   border-radius: 1.5em;
