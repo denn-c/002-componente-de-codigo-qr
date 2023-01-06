@@ -34,8 +34,8 @@ Los usuarios deben ser capaces de:
 
 ### Enlaces
 
-- URL de la solución: [https://github.com/denn-c/componente-de-codigo-qr](https://github.com/denn-c/componente-de-codigo-qr)
-- URL del sitio en vivo: [----------------------------------------------](--------------------------------------------------)
+- URL de la solución: [https://github.com/denn-c/componente-de-codigo-qr/](https://github.com/denn-c/componente-de-codigo-qr/)
+- URL del sitio en vivo: [https://denn-c.github.io/componente-de-codigo-qr/](https://denn-c.github.io/componente-de-codigo-qr/)
 
 ## Mi proceso
 
